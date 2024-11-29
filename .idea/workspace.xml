@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="113687cc-6e8a-44da-91af-cdfe1f030890" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telegram_bot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parc_mysql.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parc_mysqlV2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parc_mysqlV3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poisk_tovara.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reges_users.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parcing_and_bot/.github/workflows/All_my_sql.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parcing_and_bot/.github/workflows/All_my_sql.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parcing_and_bot/Interface.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Parcing_and_bot/Interface.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parcing_and_bot/Telegram_bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Parcing_and_bot/Telegram_bot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2pU8Rx11R7YM30elsfsiD8D0msj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Interface.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/PythonProject&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PythonProject" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="113687cc-6e8a-44da-91af-cdfe1f030890" name="Changes" comment="" />
+      <created>1732809288196</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732809288196</updated>
+    </task>
+    <servers />
+  </component>
+</project>
